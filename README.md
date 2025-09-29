@@ -35,4 +35,4 @@ This project helps users visualize key weather parameters, monitor environmental
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/weather-dashboard.git
+   git clone https://github.com/Dhananjay787500/Visualizing-Climate-Insights-with-Power-BI.git
